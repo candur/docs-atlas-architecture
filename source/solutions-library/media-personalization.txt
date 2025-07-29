@@ -172,13 +172,6 @@ essential to keep sales high.
 Technologies and Products Used
 ------------------------------
 
-MongoDB Developer Data Platform
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- `Atlas Database <https://www.mongodb.com/products/platform/atlas-database>`__
-- `Atlas Vector Search <https://www.mongodb.com/products/platform/atlas-vector-search>`__
-- `MongoDB PyMongo Driver <https://www.mongodb.com/docs/languages/python/pymongo-driver/current/>`__
-
 Authors
 -------
 
