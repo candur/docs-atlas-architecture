@@ -169,9 +169,6 @@ You can reuse the core concepts of this solution across other industries
 such as retail, where presenting the right products to the right users is
 essential to keep sales high.
 
-Technologies and Products Used
-------------------------------
-
 Authors
 -------
 
